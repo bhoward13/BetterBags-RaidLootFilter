@@ -1,0 +1,10 @@
+## Interface: 110200
+## Title: BetterBags - Raid Loot Filter
+## Notes: BetterBag filters for each raid
+## Version: 1.0
+## Author: Mastec
+## X-License: MIT
+## Dependencies: BetterBags
+
+Localization.lua
+core.lua
